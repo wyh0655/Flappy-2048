@@ -7,8 +7,8 @@ Flappy 2048
 
 附图
 
-![样例1.png](https://github.com/ZenithDandelion/Flappy-2048/tree/master/pic/1.png)
-![样例2.png](https://github.com/ZenithDandelion/Flappy-2048/tree/master/pic/2.png)
+![样例1.png](https://github.com/ZenithDandelion/Flappy-2048/blob/master/pic/1.png)
+![样例2.png](https://github.com/ZenithDandelion/Flappy-2048/blob/master/pic/2.png)
 
 
 
